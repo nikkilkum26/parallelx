@@ -5,13 +5,13 @@ body{
 
 /* Firefox */
 *{
-  scrollbar-width: 0px;
+  scrollbar-width: 10px;
   scrollbar-color: #000000 #FFFFFF;
 }
 
 /* Other browsers */
 *::-webkit-scrollbar{
-  width: 0px;
+  width: 10px;
 }
 
 *::-webkit-scrollbar-track{
