@@ -6,7 +6,7 @@ const Parallex = () => {
 
         <div className="parallex-scroller">
             <div className="item  ">
-            <div className="item-1" draggable="false" ></div>
+            {/* <div className="item-1" draggable="false" ></div> */}
             </div>
             <div className="item ">
             <div className="item-2"></div>
@@ -33,16 +33,16 @@ const Parallex = () => {
             <div className="item-9"></div>
             </div>
             <div className="item ">
-            <div className="item-10"></div>
+            {/* <div className="item-10"></div> */}
             </div>
             <div className="item ">
-            <div className="item-11"></div>
+            {/* <div className="item-11"></div> */}
             </div>
             <div className="item ">
-            <div className="item-12"></div>
+            {/* <div className="item-12"></div> */}
             </div>
             <div className="item ">
-            <div className="item-13"></div>
+            {/* <div className="item-13"></div> */}
             </div>
         {/* hello */}
         </div>

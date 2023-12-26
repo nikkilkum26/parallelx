@@ -88,7 +88,7 @@ body{
 .parallex-scroller{
   display: grid;
   grid-template-rows: repeat(1,300px);
-  grid-template-columns: repeat(13,300px);
+  grid-template-columns: repeat(12,300px);
   color: transparent;
   overflow: auto;
   gap:10px;
